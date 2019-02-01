@@ -1205,7 +1205,7 @@ img.pull-right {
   overflow: hidden;
   background: #3b1d82; }
   .ts-experiences .exp-img {
-    min-height: 480px;
+    min-height: 494px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center; }
@@ -2979,3 +2979,7 @@ faq-item
     font-size: 20px;
     font-weight: 700;
     margin-top: 2px; }
+
+    .sch_des {
+      font-size: 12px;
+    }
