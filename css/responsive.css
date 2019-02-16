@@ -298,7 +298,8 @@ small device /mobile sm and large
   .banner-img {
     display: none; }
   .banner-item {
-    min-height: 550px; }
+    min-height: 550px;
+    width: 133%; }
     .banner-item .banner-content-wrap {
       padding: 180px 0 100px; }
       .banner-item .banner-content-wrap p.banner-info {
