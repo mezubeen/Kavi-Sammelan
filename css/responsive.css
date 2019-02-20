@@ -299,7 +299,9 @@ small device /mobile sm and large
     display: none; }
   .banner-item {
     min-height: 550px;
-    width: 200%; }
+    /* width: 200%; */
+    width: 100%;
+   }
     .banner-item .banner-content-wrap {
       padding: 180px 0 100px; }
       .banner-item .banner-content-wrap p.banner-info {
