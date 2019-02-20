@@ -300,7 +300,7 @@ small device /mobile sm and large
   .banner-item {
     min-height: 550px;
     /* width: 200%; */
-    width: 100%;
+    max-width: 100%;
    }
     .banner-item .banner-content-wrap {
       padding: 180px 0 100px; }
